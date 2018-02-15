@@ -22,5 +22,5 @@ var result = addition(5, 10);
 console.log(result);
 console.log(addition.toString());
 addition = 99;
-console.log(addition);
+console.log(addition.toString());
 //result = add(1, 2);
